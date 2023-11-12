@@ -6,7 +6,7 @@ The game is played by using the two keys "a" and "d" for left and right movement
 
 I wrote this game because I enjoy C# and this project gave me an opportunity to use it. I also wanted some experience with an advanced game engine like Unity. In essence, I wanted to expand my skillsets, and I believe I've done that.
 
-[Software Demo Video]((https://youtu.be/dRK4BEYC1yE))
+[Software Demo Video](https://youtu.be/dRK4BEYC1yE)
 
 # Development Environment
 
