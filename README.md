@@ -10,19 +10,20 @@ I wrote this game because I enjoy C# and this project gave me an opportunity to 
 
 # Development Environment
 
-{Describe the tools that you used to develop the software}
-
-{Describe the programming language that you used and any libraries.}
+* Unity Game Engine
+* Unity Editor
+* Scripts written in C#
+* Visual Studio IDE
 
 # Useful Websites
 
 {Make a list of websites that you found helpful in this project}
-* [Web Site Name](http://url.link.goes.here)
-* [Web Site Name](http://url.link.goes.here)
+* [Brackeys YouTube Tutorial: "How to make a Video Game in Unity"](https://www.youtube.com/watch?v=j48LtUkZRjU&list=PLPV2KyIb3jR5QFsefuO2RlAgWEz6EvVi6)
+* [Article on saving Unity projects to GitHub](https://cadacreate.medium.com/how-to-add-existing-unity-project-to-github-916ad75160e7)
+* [ChatGPT](https://chat.openai.com)
 
 # Future Work
 
-{Make a list of things that you need to fix, improve, and add in the future.}
-* Item 1
-* Item 2
-* Item 3
+* Add beginning UI with more game options
+* Add additional levels
+* Add functionality to keep track of high scores
